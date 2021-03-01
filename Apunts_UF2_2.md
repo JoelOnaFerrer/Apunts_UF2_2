@@ -23,8 +23,8 @@ Hi han dos tipus d'anàlisi que poden ser:
 
   També poden aver-hi llocs webs que poden analitzar estàticament el codi com:
 
-    - **Scrutinizer**.
-    - **SonarQube**  .
+   - **Scrutinizer**
+   - **SonarQube**  
 
 ## Refactorització
 
